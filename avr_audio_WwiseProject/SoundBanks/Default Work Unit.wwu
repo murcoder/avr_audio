@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{70416516-4AFF-4E2A-AE7C-840523B372F4}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{70416516-4AFF-4E2A-AE7C-840523B372F4}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="RollerBall01" ID="{DE89E751-4777-49FC-B56C-9E15C3E1C619}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_win" ID="{6C36CFA2-6D10-4794-9A87-028E7E8BA326}" WorkUnitID="{A0E466FB-624C-4CD0-BD6D-AF21A13CF9C8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Cubes" ID="{6785A746-8A25-4EF0-8D65-B2C8298C9A20}" WorkUnitID="{A0E466FB-624C-4CD0-BD6D-AF21A13CF9C8}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Walls" ID="{04EC67F7-C354-4F3E-A09F-7AF15614C246}" WorkUnitID="{A0E466FB-624C-4CD0-BD6D-AF21A13CF9C8}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A0E466FB-624C-4CD0-BD6D-AF21A13CF9C8}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{A0E466FB-624C-4CD0-BD6D-AF21A13CF9C8}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Walls" ID="{04EC67F7-C354-4F3E-A09F-7AF15614C246}">
+					<ChildrenList>
+						<Action Name="" ID="{7EAEEB66-FDC6-406D-9CA2-DFC63D296C8C}" ShortID="930479340">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Walls" ID="{DC8E976E-C60E-4810-A6DF-9ED0E1AD2548}" WorkUnitID="{8F44FD03-22F4-477B-967E-4501E86A81A7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Cubes" ID="{6785A746-8A25-4EF0-8D65-B2C8298C9A20}">
+					<ChildrenList>
+						<Action Name="" ID="{3510A107-052B-449C-A5B0-697D7DCD184D}" ShortID="531761643">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Cubes" ID="{278B6835-DB38-401A-9E90-692BC7689CCA}" WorkUnitID="{8F44FD03-22F4-477B-967E-4501E86A81A7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_win" ID="{6C36CFA2-6D10-4794-9A87-028E7E8BA326}">
+					<ChildrenList>
+						<Action Name="" ID="{6353E794-BFF1-49D3-A559-9B69BD8931A0}" ShortID="551707077">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="finish-race" ID="{7240C08D-DE3E-42CE-A56B-9AEF7821C49B}" WorkUnitID="{8F44FD03-22F4-477B-967E-4501E86A81A7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

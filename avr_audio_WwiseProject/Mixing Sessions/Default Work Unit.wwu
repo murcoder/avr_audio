@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{90E8E5FD-2379-4D7E-9AAF-DE324A2A96C1}" SchemaVersion="103">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{90E8E5FD-2379-4D7E-9AAF-DE324A2A96C1}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="Default" ID="{FC5B6F49-F97F-4F07-B91D-780965C96BAE}">
+					<ObjectList>
+						<ObjectRef Name="Cubes" ID="{278B6835-DB38-401A-9E90-692BC7689CCA}" WorkUnitID="{8F44FD03-22F4-477B-967E-4501E86A81A7}"/>
+						<ObjectRef Name="finish-race" ID="{7240C08D-DE3E-42CE-A56B-9AEF7821C49B}" WorkUnitID="{8F44FD03-22F4-477B-967E-4501E86A81A7}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A7B9E0AC-EF6B-4F49-B770-25F5B488D946}" SchemaVersion="103">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{A7B9E0AC-EF6B-4F49-B770-25F5B488D946}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Default" ID="{BE7585F8-42DF-4430-9ABC-3092458E449C}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="finish-race" ID="{7240C08D-DE3E-42CE-A56B-9AEF7821C49B}" WorkUnitID="{8F44FD03-22F4-477B-967E-4501E86A81A7}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Cubes" ID="{278B6835-DB38-401A-9E90-692BC7689CCA}" WorkUnitID="{8F44FD03-22F4-477B-967E-4501E86A81A7}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

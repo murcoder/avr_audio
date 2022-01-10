@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>G:\workspace\unity\avr_audio\avr_audio_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>G:\workspace\unity\avr_audio\avr_audio_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>G:\workspace\unity\avr_audio\avr_audio_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3091448175" Language="SFX" Hash="2955471360">
+			<ObjectPath>\SoundBanks\Default Work Unit\RollerBall01</ObjectPath>
+			<ShortName>RollerBall01</ShortName>
+			<Path>RollerBall01.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3198156736" Name="Play_Cubes" ObjectPath="\Events\Default Work Unit\Play_Cubes" MaxAttenuation="20.000000" DurationType="OneShot" DurationMin="0.907075" DurationMax="2.001429">
+					<IncludedMemoryFiles>
+						<File Id="55445884" Language="SFX">
+							<ShortName>pu-04 {840c6ba7-b00b-4f1e-a971-62eb3cc9ecd4}.wav</ShortName>
+							<Path>SFX\pu-04 {840c6ba7-b00b-4f1e-a971-62eb3cc9ecd4}_10C4C929.wem</Path>
+						</File>
+						<File Id="653998768" Language="SFX">
+							<ShortName>pu-05 {6b177653-8744-4ca8-83eb-ceabc7190a2e}.wav</ShortName>
+							<Path>SFX\pu-05 {6b177653-8744-4ca8-83eb-ceabc7190a2e}_10C4C929.wem</Path>
+						</File>
+						<File Id="1035250788" Language="SFX">
+							<ShortName>pu-03 {13fcab26-dfcc-4e7c-9b01-2d0860e1cc8d}.wav</ShortName>
+							<Path>SFX\pu-03 {13fcab26-dfcc-4e7c-9b01-2d0860e1cc8d}_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="562855509" Name="Play_Walls" ObjectPath="\Events\Default Work Unit\Play_Walls" DurationType="OneShot" DurationMin="0.193175" DurationMax="0.193175">
+					<IncludedMemoryFiles>
+						<File Id="127439409" Language="SFX">
+							<ShortName>pu-click-2 {def9bb27-5076-4c4d-9ab5-13253e9ecb5e}.wav</ShortName>
+							<Path>SFX\pu-click-2 {def9bb27-5076-4c4d-9ab5-13253e9ecb5e}_10C4C929.wem</Path>
+						</File>
+						<File Id="310035786" Language="SFX">
+							<ShortName>pu-click-1 {77ae03bf-88f0-4f82-8324-9965e0bc7c54}.wav</ShortName>
+							<Path>SFX\pu-click-1 {77ae03bf-88f0-4f82-8324-9965e0bc7c54}_10C4C929.wem</Path>
+						</File>
+						<File Id="431188569" Language="SFX">
+							<ShortName>pu-click {8f19c032-d739-4690-a94f-50e15d7b38c3}.wav</ShortName>
+							<Path>SFX\pu-click {8f19c032-d739-4690-a94f-50e15d7b38c3}_10C4C929.wem</Path>
+						</File>
+						<File Id="531608983" Language="SFX">
+							<ShortName>pu-click-4 {e2ad82b1-6236-4d19-8a43-7ecd7166aa20}.wav</ShortName>
+							<Path>SFX\pu-click-4 {e2ad82b1-6236-4d19-8a43-7ecd7166aa20}_10C4C929.wem</Path>
+						</File>
+						<File Id="620141834" Language="SFX">
+							<ShortName>pu-click-0 {038adf65-d2a9-4646-b554-5d0bd5714678}.wav</ShortName>
+							<Path>SFX\pu-click-0 {038adf65-d2a9-4646-b554-5d0bd5714678}_10C4C929.wem</Path>
+						</File>
+						<File Id="807076770" Language="SFX">
+							<ShortName>pu-click-3 {597049d9-9e58-4d2a-bd8c-52ba936dde3d}.wav</ShortName>
+							<Path>SFX\pu-click-3 {597049d9-9e58-4d2a-bd8c-52ba936dde3d}_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2955987680" Name="Play_win" ObjectPath="\Events\Default Work Unit\Play_win" DurationType="OneShot" DurationMin="31.616327" DurationMax="31.616327">
+					<IncludedMemoryFiles>
+						<File Id="901507309" Language="SFX">
+							<ShortName>finish-race.wav</ShortName>
+							<Path>SFX\finish-race_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

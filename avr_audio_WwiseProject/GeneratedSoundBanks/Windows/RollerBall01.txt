@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	562855509	Play_Walls			\Default Work Unit\Play_Walls	
+	2955987680	Play_win			\Default Work Unit\Play_win	
+	3198156736	Play_Cubes			\Default Work Unit\Play_Cubes	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	55445884	pu-04 {840c6ba7-b00b-4f1e-a971-62eb3cc9ecd4}	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\pu-04 {840c6ba7-b00b-4f1e-a971-62eb3cc9ecd4}_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cubes\pu-04 {840c6ba7-b00b-4f1e-a971-62eb3cc9ecd4}		176590
+	127439409	pu-click-2 {def9bb27-5076-4c4d-9ab5-13253e9ecb5e}	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\pu-click-2 {def9bb27-5076-4c4d-9ab5-13253e9ecb5e}_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Walls\pu-click-2 {def9bb27-5076-4c4d-9ab5-13253e9ecb5e}		17102
+	310035786	pu-click-1 {77ae03bf-88f0-4f82-8324-9965e0bc7c54}	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\pu-click-1 {77ae03bf-88f0-4f82-8324-9965e0bc7c54}_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Walls\pu-click-1 {77ae03bf-88f0-4f82-8324-9965e0bc7c54}		17102
+	431188569	pu-click {8f19c032-d739-4690-a94f-50e15d7b38c3}	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\pu-click {8f19c032-d739-4690-a94f-50e15d7b38c3}_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Walls\pu-click {8f19c032-d739-4690-a94f-50e15d7b38c3}		17102
+	531608983	pu-click-4 {e2ad82b1-6236-4d19-8a43-7ecd7166aa20}	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\pu-click-4 {e2ad82b1-6236-4d19-8a43-7ecd7166aa20}_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Walls\pu-click-4 {e2ad82b1-6236-4d19-8a43-7ecd7166aa20}		17102
+	620141834	pu-click-0 {038adf65-d2a9-4646-b554-5d0bd5714678}	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\pu-click-0 {038adf65-d2a9-4646-b554-5d0bd5714678}_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Walls\pu-click-0 {038adf65-d2a9-4646-b554-5d0bd5714678}		17102
+	653998768	pu-05 {6b177653-8744-4ca8-83eb-ceabc7190a2e}	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\pu-05 {6b177653-8744-4ca8-83eb-ceabc7190a2e}_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cubes\pu-05 {6b177653-8744-4ca8-83eb-ceabc7190a2e}		113678
+	807076770	pu-click-3 {597049d9-9e58-4d2a-bd8c-52ba936dde3d}	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\pu-click-3 {597049d9-9e58-4d2a-bd8c-52ba936dde3d}_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Walls\pu-click-3 {597049d9-9e58-4d2a-bd8c-52ba936dde3d}		17102
+	901507309	finish-race	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\finish-race_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\finish-race		5577184
+	1035250788	pu-03 {13fcab26-dfcc-4e7c-9b01-2d0860e1cc8d}	G:\workspace\unity\avr_audio\avr_audio_WwiseProject\.cache\Windows\SFX\pu-03 {13fcab26-dfcc-4e7c-9b01-2d0860e1cc8d}_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cubes\pu-03 {13fcab26-dfcc-4e7c-9b01-2d0860e1cc8d}		80068
+
